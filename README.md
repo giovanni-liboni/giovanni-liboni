@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @giovanni-liboni
-- 👀 I’m interested in IoT, systems design, and cyber security
-- 📫 How to reach me giovanni at liboni dot me
+👋 Hi, I’m Giovanni
 
-<!---
-giovanni-liboni/giovanni-liboni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Backend engineer in Go, building reliable platforms and distributed systems
+🌀 Background in embedded and complex systems design
+👀 Interested in scalable architectures and edge/cloud integration
+
+📫 giovanni at liboni dot me
